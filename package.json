@@ -1,0 +1,21 @@
+{
+  "name": "week-6",
+  "version": "1.0.0",
+  "description": "Hey! 👋 This is a small Node.js + Express project I made while learning backend stuff.  \r It’s basically a super simple **signup** and **signin** API that stores users in memory (no database yet 😅).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankitchanal-eng/Creating-an-express-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ankitchanal-eng/Creating-an-express-app/issues"
+  },
+  "homepage": "https://github.com/Ankitchanal-eng/Creating-an-express-app#readme"
+}
