@@ -23,3 +23,9 @@ It’s basically a super simple **signup** and **signin** API that stores users 
 6. Open Postman, Thunder Client, or any API testing tool and try:
     - POST http://localhost:3000/signup
     - POST http://localhost:3000/signin
+
+## After updates in our code
+- Creating an authenticated EP for authentincation of ueser.
+- Then we generate the random tokens that is stored in database but it hit the database again & again for the tokens.
+- Then we come up with the JWTs (jsonwebtokens) it do not store the token in DB All the `data` is stored in the token itself.
+- we do not hit the `DATABASE` for authentincation.
